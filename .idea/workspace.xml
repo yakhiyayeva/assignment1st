@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b76bf5af-6b31-480e-b2eb-2e004e66c94b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignment1st.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task9.java" afterDir="false" />
-    </list>
+    <list default="true" id="b76bf5af-6b31-480e-b2eb-2e004e66c94b" name="Changes" comment="solving with recursion" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,11 +56,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712676771576</updated>
-      <workItem from="1712676772623" duration="6635000" />
+      <workItem from="1712676772623" duration="6955000" />
     </task>
+    <task id="LOCAL-00001" summary="solving with recursion">
+      <option name="closed" value="true" />
+      <created>1712683521249</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712683521249</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="solving with recursion" />
+    <option name="LAST_COMMIT_MESSAGE" value="solving with recursion" />
   </component>
 </project>
